@@ -1,3 +1,3 @@
 # Demo
 
-Some description. \n Hello
+Some description.
